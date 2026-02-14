@@ -16,7 +16,7 @@ A small REST API built with FastAPI.
 - Uvicorn
 
 ## Project Structure
-
+````
 practice_api/
 │
 ├── app/
@@ -26,7 +26,7 @@ practice_api/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+````
 
 ## Run Locally
 
